@@ -545,39 +545,39 @@
           </div>
 
           <div class="col-lg-7">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+            <form id="contactForm" action="https://script.google.com/macros/s/AKfycbyC6J5RKTiPYnoSfG-RyPbVE1hYJ-aBQc4BzMkxJ6LLwFi8EpBRpVfzQjxsJHrM0THL/exec" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <!-- Form fields remain the same -->
               <div class="row gy-4">
-
                 <div class="col-md-6">
                   <label for="name-field" class="pb-2">Your Name</label>
                   <input type="text" name="name" id="name-field" class="form-control" required="">
                 </div>
-
+            
                 <div class="col-md-6">
                   <label for="email-field" class="pb-2">Your Email</label>
                   <input type="email" class="form-control" name="email" id="email-field" required="">
                 </div>
-
+            
                 <div class="col-md-12">
                   <label for="subject-field" class="pb-2">Subject</label>
                   <input type="text" class="form-control" name="subject" id="subject-field" required="">
                 </div>
-
+            
                 <div class="col-md-12">
                   <label for="message-field" class="pb-2">Message</label>
                   <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
                 </div>
-
+            
                 <div class="col-md-12 text-center">
                   <div class="loading">Loading</div>
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
-
+            
                   <button type="submit">Send Message</button>
                 </div>
-
+            
               </div>
-            </form>
+            </form>            
           </div><!-- End Contact Form -->
 
         </div>
@@ -605,6 +605,7 @@
   <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="forms/contact.js"></script>
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
