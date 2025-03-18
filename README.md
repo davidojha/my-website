@@ -3,9 +3,9 @@
 Welcome to my portfolio! I am **David Ojha**, an innovative **engineer, photographer, and artist**, blending technical expertise with creativity. As an **undergraduate mechanical engineering (automobile) student at Kathmandu University**, I am passionate about **robotics, automation, and IoT projects**. This portfolio showcases my projects, skills, and experiences.
 
 ## 🔗 Live Portfolio
-Check out my portfolio website here: (https://www.davidojha.com.np/)
+Check out my portfolio website here: https://www.davidojha.com.np/
 ## 🏆 About Me
-- 🎓 **Undergraduate Mechanical Engineering Student (Automobile) ** at Kathmandu University
+- 🎓 Undergraduate Mechanical Engineering Student (Automobile) at Kathmandu University
 - 🤖 **Passionate about Robotics & Automation**
 - 📸 **Photographer & Artist**
 - 🛠 **Skilled in Arduino, NodeMCU, ESP32, and Circuit Design**
@@ -29,11 +29,11 @@ Here are some of my notable projects:
 - **Photography & Editing:** Adobe Lightroom, Photoshop
 
 ## 📞 Contact Me
-- **Email:** [davidojha753@gmail.com](mailto:davidojha753@gmail.com)
-- **LinkedIn:** [Your LinkedIn URL]
-- **Twitter:** [Your Twitter URL]
-- **Instagram:** [Your Instagram URL]
-- **GitHub:** [Your GitHub URL]
+- **Email:** [davidojha753@gmail.com](mailto:davidojha753@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/davidojha/]
+- **Twitter:** [https://x.com/davidojha_05]
+- **Instagram:** [https://www.instagram.com/_david.ojha_/]
+- **GitHub:** [https://github.com/davidojha]
 
 ⚡ **"Pushing the boundaries of engineering and creativity!"**
 
